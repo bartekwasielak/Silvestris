@@ -17,7 +17,7 @@ namespace Silvestris.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "This is Silvestris application.";
 
             return View();
         }
